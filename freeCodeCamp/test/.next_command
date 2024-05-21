@@ -207,3 +207,4 @@ rm website/images/background.jpeg
 rm website/images/background.png
 find -name background
 rm images/background.jpg
+rmdir images
