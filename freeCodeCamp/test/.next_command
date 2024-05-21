@@ -106,3 +106,5 @@ __vsc_prompt_cmd_original
 ls --color=auto
 cd ..
 ls --color=auto
+rm brackground.jpg
+rm background.jpg
