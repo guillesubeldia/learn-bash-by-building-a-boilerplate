@@ -133,3 +133,4 @@ ls --color=auto
 move lato.ttf fonts
 mv lato.ttf fonts
 mv menlo.otf fonts
+find
