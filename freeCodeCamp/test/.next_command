@@ -30,3 +30,4 @@ cd \freeCodeCamp
 pwd
 l
 ls --color=auto
+cd \test
