@@ -173,3 +173,21 @@ cd ..
 ls --color=auto
 find images
 find -name images
+mv header.png client\assets\images
+mv header.png client/assets/images
+ls --color=auto
+mv header.png client/assets/images
+remove clientassetsimages
+ls --color=auto
+rm clientassetsimages
+ls --color=auto
+rm clientsrc
+rm clientsrc
+ls --color=auto
+rm clientsrc
+ls --color=auto --all
+touch header.png
+ls --color=auto
+ls --color=auto
+ls --color=auto
+mv header.png client/assets/images
