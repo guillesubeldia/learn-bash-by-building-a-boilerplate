@@ -129,3 +129,6 @@ mv roboto.woff fonts
 __vsc_prompt_cmd_original
 find website
 find
+ls --color=auto
+move lato.ttf fonts
+mv lato.ttf fonts
