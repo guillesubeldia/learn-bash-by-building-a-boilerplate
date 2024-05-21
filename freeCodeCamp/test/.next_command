@@ -209,3 +209,16 @@ find -name background
 rm images/background.jpg
 rmdir images
 ls --color=auto
+ls --color=auto
+cd client/assets
+mkdir website
+ls --color=auto
+mkdir client/assets/icons
+ls --color=auto
+ls --color=auto
+mkdir icons
+ls --color=auto
+rmdir icons
+ls --color=auto
+cd /workspace/project/website
+mkdir client/assets/icons
