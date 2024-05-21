@@ -28,3 +28,5 @@ pwd
 ls --color=auto
 cd \freeCodeCamp
 pwd
+l
+ls --color=auto
