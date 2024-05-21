@@ -208,3 +208,4 @@ rm website/images/background.png
 find -name background
 rm images/background.jpg
 rmdir images
+ls --color=auto
