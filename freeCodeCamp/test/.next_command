@@ -61,3 +61,6 @@ ls --color=auto
 more index.js
 cd \has
 cd ..
+cd \node_modules
+pwd
+cd ..
