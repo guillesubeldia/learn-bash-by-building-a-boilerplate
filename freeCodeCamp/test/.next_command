@@ -31,3 +31,4 @@ pwd
 l
 ls --color=auto
 cd \test
+pwd
