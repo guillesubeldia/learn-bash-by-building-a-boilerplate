@@ -198,3 +198,4 @@ find -name footer.jpeg
 ls --color=auto
 mv images/footer.jpeg clien/assets/images
 mv images/footer.jpeg client/assets/images
+find
