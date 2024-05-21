@@ -222,3 +222,5 @@ rmdir icons
 ls --color=auto
 cd /workspace/project/website
 mkdir client/assets/icons
+ls --color=auto
+mv CodeAlly.svg client/assets/icons
