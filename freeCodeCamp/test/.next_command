@@ -166,3 +166,4 @@ cd /workspace/project/website/client/assets/images
 cd ../../..
 ls --color=auto
 cd \images
+ls --color=auto
